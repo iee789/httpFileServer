@@ -2,4 +2,4 @@
 aux_source_directory(. SRC_LIST)
 
 # 指定生成可执行文件
-add_executable(HttpServer ${SRC_LIST})
+add_executable(httpServer_C-Version ${SRC_LIST})
