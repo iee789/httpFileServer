@@ -13,8 +13,6 @@ enum class FDEvent
     WriteEvent = 0x04
 };
 
-// 可调用对象包装器打包的是什么? 1. 函数指针 2. 可调用对象(可以向函数一样使用)
-// 最终得到了地址, 但是没有调用
 class Channel
 {
 public:
