@@ -1,2 +1,4 @@
 # httpFileServer
 参考muduo实现的一个文件服务器
+
+在项目与src同级路径处增加bin与build目录，二进制文件与构建文档将会生成于此
