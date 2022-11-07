@@ -1,10 +1,6 @@
 #pragma once
 #include <functional>
 
-// 定义函数指针
-// typedef int(*handleFunc)(void* arg);
-// using handleFunc = int(*)(void*);
-
 // 定义文件描述符的读写事件
 enum class FDEvent
 {
